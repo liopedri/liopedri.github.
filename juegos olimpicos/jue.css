@@ -1,0 +1,94 @@
+
+Body {
+    Background-color: #0876cf;
+    Color: rgb(243, 243, 243);
+    Font-family: Arial, sans-serif;
+    Font-size: 16px;
+    Line-height: 1.5;
+  }
+  
+  Header {
+    Background-color: rgb(18, 115, 194);
+    Color: rgb(1, 3, 3);
+    Padding: 20px;
+  }
+  
+  H1 {
+    Margin: 0;
+  }
+  
+  Nav ul {
+    List-style: none;
+    Margin: 0;
+    Padding: 0;
+  }
+  
+  Nav li {
+    Display: inline-block;
+    Margin-right: 20px;
+  }
+  
+  Nav a {
+    Color: rgb(22, 22, 22);
+    Text-decoration: none;
+  }
+  
+  Main {
+    Padding: 20px;
+  }
+  
+  Section {
+    Background-color: rgba(11, 122, 150, 0.938);
+    Border: 1px solid #020000;
+    Margin-bottom: 20px;
+    Padding: 20px;
+  }
+  
+  H2 {
+    Margin-top: 0;
+  }
+  
+  Figure {
+    Margin: 0;
+  }
+  
+  Figcaption {
+    Font-style: italic;
+  }
+  
+  Img {
+    Max-width: 100%;
+    Height: auto;
+  }
+  
+  Audio,
+  Video {
+    Display: block;
+    Margin: 20px 0;
+  }
+  
+  /* Estilos específicos */
+  #atletismo {
+    Background-color: #396dcf;
+  }
+  
+  #natacion {
+    Background-color: #0cdaf5;
+  }
+  
+  #gimnasia {
+    Background-color: #ff69b4;
+  }
+  
+  #esgrima {
+    Background-color: #0fcece;
+  }
+  
+  Footer {
+    Background-color: #333;
+    Color: #fff;
+    Padding: 10px;
+    Text-align: center;
+  }
+  
+  
